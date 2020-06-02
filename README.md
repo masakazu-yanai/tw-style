@@ -31,3 +31,11 @@ Perhaps, Twitter will change the specifications in detail, so please modify the 
 
 MIT License.
 
+-----
+
+* 中央カラムの幅を増加。
+* 右カラムの幅を縮小、フォント縮小。
+* 引用部分を黒文字にして囲みを追加。
+* 上部のタイルバーを削除。
+
+![Screen Shot](ss.jpg)
