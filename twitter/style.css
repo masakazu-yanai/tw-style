@@ -1,0 +1,30 @@
+/* Upper Navigation */
+.css-1dbjc4n.r-1loqt21.r-136ojw6 {
+	display: none;
+}
+
+/* Right Column */
+.r-1hycxz {
+	width: 230px !important;	/* -120px; */
+}
+.r-1hycxz a,
+.r-1hycxz span,
+.r-1hycxz div
+ {
+	font-size: 10px !important;
+}
+
+/* Center Column */
+.r-1ye8kvj {
+	width: 800px !important;	/* +200px; */
+	max-width: 800px !important;
+}
+
+/* Center + Right Column */
+.r-rthrr5 {
+	width: 1050px !important;
+}
+
+/*
+*/
+
