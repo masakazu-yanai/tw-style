@@ -1,11 +1,14 @@
 /* Upper Navigation */
 .css-1dbjc4n.r-1loqt21.r-136ojw6 {
-	display: none;
+	zoom: 0.5;	/* Top */
+}
+.css-1dbjc4n.r-1awozwy.r-my5ep6.r-rull8r.r-qklmqi.r-18u37iz.r-1ninfw3 {
+	zoom: 0.3;	/* Second(Tab) */
 }
 
 /* Right Column */
 .r-1hycxz {
-	width: 230px !important;	/* -120px; */
+	width: 200px !important;	/* -150px; */
 }
 .r-1hycxz a,
 .r-1hycxz span,
@@ -16,8 +19,8 @@
 
 /* Center Column */
 .r-1ye8kvj {
-	width: 800px !important;	/* +200px; */
-	max-width: 800px !important;
+	width: 830px !important;	/* +230px; */
+	max-width: 830px !important;
 }
 
 /* Center + Right Column */
@@ -25,6 +28,8 @@
 	width: 1050px !important;
 }
 
-/*
-*/
+/* Left Column */
+header {
+	zoom: 0.5;
+}
 
