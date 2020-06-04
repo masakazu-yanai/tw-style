@@ -7,7 +7,7 @@
 		});
 	};
 
-	// Check is CtrlKey
+	// Check CtrlKey
 	let isCtrlKey = false;
 
 	// Loop
@@ -27,7 +27,7 @@
 				'padding: 0.75em 1em !important;'
 			);
 
-			// Ctrl a clicking with CtrlKey
+			// Manipulate clicking with CtrlKey
 			document.querySelectorAll('section[role=region] article')
 			.forEach((ele, i) => {
 				// Once
@@ -53,7 +53,7 @@
 				})
 			});
 
-			// Prevent From Atag (for: Ctrl a clicking with CtrlKey)
+			// Add fromATag (for: Ctrl a clicking with CtrlKey)
 			document.querySelectorAll('section[role=region] article a')
 			.forEach((ele, i) => {
 				// Once
