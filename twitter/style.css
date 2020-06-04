@@ -1,9 +1,9 @@
 /* Upper Navigation */
 .css-1dbjc4n.r-1loqt21.r-136ojw6 {
-	zoom: 0.5;	/* Top */
+	zoom: 0.5 !important;	/* Top */
 }
 .css-1dbjc4n.r-1awozwy.r-my5ep6.r-rull8r.r-qklmqi.r-18u37iz.r-1ninfw3 {
-	zoom: 0.3;	/* Second(Tab) */
+	zoom: 0.3 !important;	/* Second (Tab) */
 }
 
 /* Right Column */
@@ -30,6 +30,6 @@
 
 /* Left Column */
 header {
-	zoom: 0.5;
+	zoom: 0.5 !important;
 }
 
