@@ -1,3 +1,30 @@
+/* 2022-05-22 */
+
+/* Text */
+.css-901oao.css-16my406.r-1tl8opc.r-bcqeeo.r-qvutc0 {
+	zoom: 1.2;
+	line-height: 1.4em;
+}
+
+/* Left Tools */
+.css-1dbjc4n.r-1pi2tsx.r-1wtj0ep.r-1rnoaur.r-1e081e0.r-f9dfq4 {
+	zoom: 1.3;
+}
+
+/* ------------------------------------------------------------ */
+/* 2022-03-22 */
+
+/* Right Bottom Message */
+.r-1jte41z {
+	min-width: 270px !important;
+	zoom: 0.25 !important;
+}
+.r-hvns9x {
+    max-width: 270px !important;
+}
+
+/* ------------------------------------------------------------ */
+
 /* Upper Navigation */
 .css-1dbjc4n.r-1loqt21.r-136ojw6 {
 	zoom: 0.5 !important;	/* Top */
@@ -31,5 +58,11 @@
 /* Left Column */
 header {
 	zoom: 0.5 !important;
+}
+
+/* 2022-10-03 */
+/* Top Name Area */
+.r-1h3ijdo {
+	height: auto !important;
 }
 

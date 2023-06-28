@@ -2,9 +2,17 @@
   "name": "tw-style",
   "author": "Masakazu Yanai",
   "description": "chrome extension for twitter customize CSS and JS.",
-  "version": "1.0.2",
-  "manifest_version": 2,
-  "web_accessible_resources": ["*"],
+  "version": "1.0.5",
+  "manifest_version": 3,
+  "manifest_version": 3,
+  "web_accessible_resources": [{
+    "resources": [
+      "*"
+    ],
+    "matches": [
+      "https://twitter.com/*"
+    ]
+  }],
   "permissions": ["storage"],
   "content_scripts": [
     {
